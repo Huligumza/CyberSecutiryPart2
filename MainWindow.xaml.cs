@@ -22,7 +22,7 @@ namespace POE
 
             // This sets the guide text the moment the window opens
             ChatHistory.Text = "**************************************************\n" +
-                       "* WELCOME TO CYBERSECURITY ASSISTANT       *\n" +
+                       "** WELCOME TO CYBERSECURITY ASSISTANT       **\n" +
                        "**************************************************\n" +
                        "I am here to help you stay safe online.\n" +
                        "You can ask me about: 'Phishing', 'Password', or 'Browsing'.\n" +
